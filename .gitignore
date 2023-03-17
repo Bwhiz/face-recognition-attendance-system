@@ -1,0 +1,6 @@
+face_recog_venv
+
+# photos used for test running the model
+photos/
+
+*.csv
