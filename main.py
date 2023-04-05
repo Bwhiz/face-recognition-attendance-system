@@ -6,9 +6,6 @@ from datetime import datetime
 import csv
 
 
-#how to get a list of files in a directory in python?
-
-
 #print("imported successfully!")
 now = datetime.now()
 current_date = now.strftime('%Y-%m-%d')
